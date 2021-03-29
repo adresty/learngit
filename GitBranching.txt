@@ -1,0 +1,2 @@
+Learn Git Branch with LiaoXuefeng.
+学会了分支管理的部分内容，多人协作和变基有点难，没搞懂。
